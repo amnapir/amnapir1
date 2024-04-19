@@ -1,0 +1,9 @@
+
+
+baseURL = "https://amnapir.github.io/amnapir1/"
+languageCode = "en-us"
+title = "Amna's Personal Website"
+theme = "theme-name"  # Replace with your theme name
+
+
+
