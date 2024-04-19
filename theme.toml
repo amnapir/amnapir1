@@ -1,46 +1,28 @@
-name = "Academic"
-license = "MIT"
-licenselink = "https://github.com/HugoBlox/theme-academic-cv/blob/main/LICENSE.md"
-description = "Use the no-code website framework to easily build your site. Choose from 50+ widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
-homepage = "https://github.com/HugoBlox/theme-academic-cv"
-demosite = "https://hugoblox.com/templates/"
-tags = ["widgets",
-        "resume",
+name = "Amna Pir Muhammad"
+license = "Amna"
+licenselink = ""
+description = "Hi This is me, Phd student "
+homepage = "https://github.com/amnapir/amnapir1"
+demosite = ""
+tags = ["resume",
         "portfolio",
-        "responsive",
-        "clean",
         "personal",
-        "company",
         "blog",
-        "minimal",
-        "light",
-        "dark",
-        "multilingual",
-        "documentation",
-        "landing page",
         "projects",
-        "single page",
-        "contact form",
         "mobile",
         "gallery",
         "search",
-        "presentation",
-        "simple",
-        "minimalist",
-        "starter",
-        "modern",
-        "one page",
         "customizable",
         "technical",
         "product",
         "slide"
         ]
-features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+features = ["page builder", "widgets", "search", "research publication system", 
+            "blog", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Amna Pir Muhammad"
+  homepage = "https://github.com/amnapir/amnapir1"
 
 # If porting an existing theme
 [original]
